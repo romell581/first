@@ -2,6 +2,6 @@
 
 echo 'test';
 
-$file = 'file1';
+$file3 = 'file13';
 
 ?>
